@@ -1,0 +1,7 @@
+msgid "Hello"
+ 
+msgstr " Translation"
+ 
+msgid "world"
+ 
+msgstr " Xin chao"

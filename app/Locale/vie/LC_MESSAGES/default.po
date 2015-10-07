@@ -1,0 +1,136 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: 2015-09-07 11:29+0700\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"Language: vi\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: Config/constants.php:18 View/FMenus/add.ctp:160
+msgid "登録"
+msgstr "Đăng ký"
+
+#: Config/constants.php:19 View/FFoodstuffs/add.ctp:77 View/FMenus/add.ctp:156
+msgid "戻る"
+msgstr "Quay lại"
+
+#: View/FFoodstuffs/add.ctp:9
+msgid "食材入力画面"
+msgstr "Màn hình đầu vào thực phẩm"
+
+#: View/FFoodstuffs/add.ctp:12
+msgid "食材数"
+msgstr "Số lượng nguyên liệu"
+
+#: View/FFoodstuffs/add.ctp:25;35
+msgid "食材"
+msgstr "Thực phẩm"
+
+#: View/FFoodstuffs/add.ctp:78
+msgid "食材追加"
+msgstr "Thành phần bổ sung"
+
+#: View/FMenus/add.ctp:17
+msgid "メニュー登録"
+msgstr "Đăng kí thực đơn"
+
+#: View/FMenus/add.ctp:23
+msgid "言語を選択"
+msgstr "Chọn một ngôn ngữ"
+
+#: View/FMenus/add.ctp:34
+msgid "メニュー名称"
+msgstr "Tên thực đơn"
+
+#: View/FMenus/add.ctp:63
+msgid " 食材"
+msgstr "Thực phẩm"
+
+#: View/FMenus/add.ctp:63;76
+msgid "品種"
+msgstr "giống"
+
+#: View/FMenus/add.ctp:76
+msgid " 調味料"
+msgstr "Đồ gia vị"
+
+#: View/FMenus/add.ctp:88
+msgid "価格"
+msgstr "Giá"
+
+#: View/FMenus/add.ctp:92
+msgid "通貨"
+msgstr "Ngoại tệ"
+
+#: View/FMenus/add.ctp:95
+msgid "円"
+msgstr "yên"
+
+#: View/FMenus/add.ctp:95
+msgid "アメリカドール"
+msgstr "American Doll"
+
+#: View/FMenus/add.ctp:105
+msgid "支払方法"
+msgstr "Phương thức thanh toán"
+
+#: View/FMenus/add.ctp:111
+msgid "現金"
+msgstr "Tiền mặt"
+
+#: View/FMenus/add.ctp:111
+msgid "クレジットカード"
+msgstr "Thẻ tín dụng"
+
+#: View/FMenus/add.ctp:111
+msgid "トラベラーカード"
+msgstr "Thẻ Traveler"
+
+#: View/FMenus/add.ctp:119
+msgid "紹介情報"
+msgstr "Giới thiệu thông tin"
+
+#: View/FMenus/add.ctp:128
+msgid "お得情報"
+msgstr "Chương trình khuyến mại"
+
+#: View/FMenus/add.ctp:137
+msgid "おいしい食べ方"
+msgstr "Cách ngon ăn"
+
+#: View/FMenus/add.ctp:146
+msgid " ボリューム "
+msgstr "Khối lượng"
+
+#: View/FMenus/add.ctp:157
+msgid "変更"
+msgstr "Thay đổi"
+
+#: View/FMenus/add.ctp:161
+msgid "削除"
+msgstr "Xóa"
+
+#: View/FSeasonings/add.ctp:9
+msgid "調味料入力画面"
+msgstr "Màn hình đầu vào gia vị"
+
+#: View/FSeasonings/add.ctp:12
+msgid "調味料数"
+msgstr "Số gia vị"
+
+#: View/FSeasonings/add.ctp:25;34
+msgid "調味料"
+msgstr "Đồ gia vị"
+
+#: View/FSeasonings/add.ctp:77
+msgid "調味料追加"
+msgstr "Gia vị thêm vào"

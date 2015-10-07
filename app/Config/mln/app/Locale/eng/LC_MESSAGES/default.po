@@ -1,0 +1,136 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: 2015-06-22 13:45+0700\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.5\n"
+
+#: Config/constants.php:18 View/FMenus/add.ctp:160
+msgid "登録"
+msgstr "Add"
+
+#: Config/constants.php:19 View/FFoodstuffs/add.ctp:77 View/FMenus/add.ctp:156
+msgid "戻る"
+msgstr "Back"
+
+#: View/FFoodstuffs/add.ctp:9
+msgid "食材入力画面"
+msgstr "Foodstuff input screen"
+
+#: View/FFoodstuffs/add.ctp:12
+msgid "食材数"
+msgstr "The number of Foodstuff"
+
+#: View/FFoodstuffs/add.ctp:25;35
+msgid "食材"
+msgstr "Foodstuff"
+
+#: View/FFoodstuffs/add.ctp:78
+msgid "食材追加"
+msgstr "Foodstuff add"
+
+#: View/FMenus/add.ctp:17
+msgid "メニュー登録"
+msgstr "Menu registration"
+
+#: View/FMenus/add.ctp:23
+msgid "言語を選択"
+msgstr "Select a language"
+
+#: View/FMenus/add.ctp:34
+msgid "メニュー名称"
+msgstr "Menu name"
+
+#: View/FMenus/add.ctp:63
+msgid " 食材"
+msgstr "Foodstuff"
+
+#: View/FMenus/add.ctp:63;76
+msgid "品種"
+msgstr "Varieties"
+
+#: View/FMenus/add.ctp:76
+msgid " 調味料"
+msgstr "Seasoning"
+
+#: View/FMenus/add.ctp:88
+msgid "価格"
+msgstr "Price"
+
+#: View/FMenus/add.ctp:92
+msgid "通貨"
+msgstr "Currency"
+
+#: View/FMenus/add.ctp:95
+msgid "円"
+msgstr "Yen"
+
+#: View/FMenus/add.ctp:95
+msgid "アメリカドール"
+msgstr "American Doll"
+
+#: View/FMenus/add.ctp:105
+msgid "支払方法"
+msgstr "Payment method"
+
+#: View/FMenus/add.ctp:111
+msgid "現金"
+msgstr "Cash"
+
+#: View/FMenus/add.ctp:111
+msgid "クレジットカード"
+msgstr "Credit card"
+
+#: View/FMenus/add.ctp:111
+msgid "トラベラーカード"
+msgstr "Traveler card"
+
+#: View/FMenus/add.ctp:119
+msgid "紹介情報"
+msgstr "Introduction information"
+
+#: View/FMenus/add.ctp:128
+msgid "お得情報"
+msgstr "Deals"
+
+#: View/FMenus/add.ctp:137
+msgid "おいしい食べ方"
+msgstr "Delicious way to eat"
+
+#: View/FMenus/add.ctp:146
+msgid " ボリューム "
+msgstr "Volume"
+
+#: View/FMenus/add.ctp:157
+msgid "変更"
+msgstr "Change"
+
+#: View/FMenus/add.ctp:161
+msgid "削除"
+msgstr "Delete"
+
+#: View/FSeasonings/add.ctp:9
+msgid "調味料入力画面"
+msgstr "Seasoning input screen"
+
+#: View/FSeasonings/add.ctp:12
+msgid "調味料数"
+msgstr "Seasoning number"
+
+#: View/FSeasonings/add.ctp:25;34
+msgid "調味料"
+msgstr "Seasoning"
+
+#: View/FSeasonings/add.ctp:77
+msgid "調味料追加"
+msgstr "Seasoning add"

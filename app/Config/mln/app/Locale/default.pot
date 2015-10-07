@@ -1,0 +1,138 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Config/constants.php:18
+#: View/FMenus/add.ctp:160
+msgid "登録"
+msgstr ""
+
+#: Config/constants.php:19
+#: View/FFoodstuffs/add.ctp:77
+#: View/FMenus/add.ctp:156
+msgid "戻る"
+msgstr ""
+
+#: View/FFoodstuffs/add.ctp:9
+msgid "食材入力画面"
+msgstr ""
+
+#: View/FFoodstuffs/add.ctp:12
+msgid "食材数"
+msgstr ""
+
+#: View/FFoodstuffs/add.ctp:25;35
+msgid "食材"
+msgstr ""
+
+#: View/FFoodstuffs/add.ctp:78
+msgid "食材追加"
+msgstr ""
+
+#: View/FMenus/add.ctp:17
+msgid "メニュー登録"
+msgstr ""
+
+#: View/FMenus/add.ctp:23
+msgid "言語を選択"
+msgstr ""
+
+#: View/FMenus/add.ctp:34
+msgid "メニュー名称"
+msgstr ""
+
+#: View/FMenus/add.ctp:63
+msgid " 食材"
+msgstr ""
+
+#: View/FMenus/add.ctp:63;76
+msgid "品種"
+msgstr ""
+
+#: View/FMenus/add.ctp:76
+msgid " 調味料"
+msgstr ""
+
+#: View/FMenus/add.ctp:88
+msgid "価格"
+msgstr ""
+
+#: View/FMenus/add.ctp:92
+msgid "通貨"
+msgstr ""
+
+#: View/FMenus/add.ctp:95
+msgid "円"
+msgstr ""
+
+#: View/FMenus/add.ctp:95
+msgid "アメリカドール"
+msgstr ""
+
+#: View/FMenus/add.ctp:105
+msgid "支払方法"
+msgstr ""
+
+#: View/FMenus/add.ctp:111
+msgid "現金"
+msgstr ""
+
+#: View/FMenus/add.ctp:111
+msgid "クレジットカード"
+msgstr ""
+
+#: View/FMenus/add.ctp:111
+msgid "トラベラーカード"
+msgstr ""
+
+#: View/FMenus/add.ctp:119
+msgid "紹介情報"
+msgstr ""
+
+#: View/FMenus/add.ctp:128
+msgid "お得情報"
+msgstr ""
+
+#: View/FMenus/add.ctp:137
+msgid "おいしい食べ方"
+msgstr ""
+
+#: View/FMenus/add.ctp:146
+msgid " ボリューム "
+msgstr ""
+
+#: View/FMenus/add.ctp:157
+msgid "変更"
+msgstr ""
+
+#: View/FMenus/add.ctp:161
+msgid "削除"
+msgstr ""
+
+#: View/FSeasonings/add.ctp:9
+msgid "調味料入力画面"
+msgstr ""
+
+#: View/FSeasonings/add.ctp:12
+msgid "調味料数"
+msgstr ""
+
+#: View/FSeasonings/add.ctp:25;34
+msgid "調味料"
+msgstr ""
+
+#: View/FSeasonings/add.ctp:77
+msgid "調味料追加"
+msgstr ""
+

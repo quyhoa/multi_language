@@ -1,0 +1,1877 @@
+2015-05-06 11:51:43 Error: Fatal Error (4): syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\UsersController.php, line 46]
+2015-05-06 11:51:43 Error: [FatalErrorException] syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$'
+Request URL: /login
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 46)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 46, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 46, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-06 11:52:20 Error: Fatal Error (4): syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\UsersController.php, line 46]
+2015-05-06 11:52:20 Error: [FatalErrorException] syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$'
+Request URL: /login
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 46)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 46, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 46, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-12 06:04:10 Error: [MissingControllerException] Controller class FmenuController could not be found.
+Exception Attributes: array (
+  'class' => 'FmenuController',
+  'plugin' => NULL,
+)
+Request URL: /fmenu
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-05-12 06:05:00 Error: [MissingControllerException] Controller class MenuController could not be found.
+Exception Attributes: array (
+  'class' => 'MenuController',
+  'plugin' => NULL,
+)
+Request URL: /menu/
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-05-14 03:56:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/jquery.validate.min.css
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-05-14 03:56:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/jquery.validate.min.css
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-05-14 03:56:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/jquery.validate.min.css
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-05-14 04:39:18 Error: Fatal Error (1): Call to undefined method FMenusController::refere() in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php, line 78]
+2015-05-14 04:39:18 Error: [FatalErrorException] Call to undefined method FMenusController::refere()
+Request URL: /Fmenus/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 78)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 78, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 78, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 04:54:44 Error: Fatal Error (4): syntax error, unexpected '[' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php, line 86]
+2015-05-14 04:54:44 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /Fmenus/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 86)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 86, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 86, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 05:13:33 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php, line 62]
+2015-05-14 05:13:33 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /Fmenus/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 62)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 62, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 62, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 05:13:59 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php, line 62]
+2015-05-14 05:13:59 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /Fmenus/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 62)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 62, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 62, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 05:35:33 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\View\Fmenus\add.ctp, line 47]
+2015-05-14 05:35:33 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /Fmenus/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 47, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 47, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 05:39:33 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 05:43:17 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 05:44:03 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 05:46:07 Error: [MissingActionException] Action FMenusController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'FMenusController',
+  'action' => 'edit',
+)
+Request URL: /fmenus/edit/46
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 05:46:54 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 05:52:56 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 05:55:13 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 05:55:17 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 05:56:45 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 05:58:28 Error: [MissingActionException] Action FMenusController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'FMenusController',
+  'action' => 'edit',
+)
+Request URL: /fmenus/edit/55
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 06:27:32 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\DictJasController.php, line 203]
+2015-05-14 06:27:32 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 06:27:37 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\DictJasController.php, line 203]
+2015-05-14 06:27:37 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 06:27:49 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\DictJasController.php, line 203]
+2015-05-14 06:27:49 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 06:27:57 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\DictJasController.php, line 203]
+2015-05-14 06:27:57 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 06:28:24 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\DictJasController.php, line 203]
+2015-05-14 06:28:24 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 203, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 06:30:19 Error: Fatal Error (1): Call to undefined method DictJasController::load() in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\DictJasController.php, line 214]
+2015-05-14 06:30:19 Error: [FatalErrorException] Call to undefined method DictJasController::load()
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 214)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 214, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 214, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 06:30:21 Error: Fatal Error (1): Call to undefined method DictJasController::load() in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\DictJasController.php, line 214]
+2015-05-14 06:30:21 Error: [FatalErrorException] Call to undefined method DictJasController::load()
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 214)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 214, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 214, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 06:31:13 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'seasoning_jp_id.status' in 'where clause'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `FSeason...', Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(668): DboSource->execute('SELECT `FSeason...', Array, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT `FSeason...', false)
+#4 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Model.php(3022): DboSource->read(Object(FSeasoning), Array)
+#5 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Model.php(2994): Model->_readDataSource('first', Array)
+#6 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\DictJasController.php(218): Model->find('first', Array)
+#7 [internal function]: DictJasController->ajaxMulItem()
+#8 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#9 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#11 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-05-14 06:31:15 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'seasoning_jp_id.status' in 'where clause'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `FSeason...', Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(668): DboSource->execute('SELECT `FSeason...', Array, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT `FSeason...', false)
+#4 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Model.php(3022): DboSource->read(Object(FSeasoning), Array)
+#5 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Model.php(2994): Model->_readDataSource('first', Array)
+#6 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\DictJasController.php(218): Model->find('first', Array)
+#7 [internal function]: DictJasController->ajaxMulItem()
+#8 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#9 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#11 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-05-14 06:37:17 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 06:37:20 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 06:37:42 Error: [MissingActionException] Action FMenusController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'FMenusController',
+  'action' => 'edit',
+)
+Request URL: /fmenus/edit/57
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 06:40:26 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 06:42:25 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 06:42:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/notification/success.png
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-05-14 06:46:52 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 06:49:28 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 06:53:27 Error: [MissingActionException] Action FMenusController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'FMenusController',
+  'action' => 'edit',
+)
+Request URL: /fmenus/edit/55
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 07:00:01 Error: Fatal Error (4): syntax error, unexpected '}' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FFoodstuffsController.php, line 43]
+2015-05-14 07:00:01 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /FFoodstuffs/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 43, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 43, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 07:00:14 Error: Fatal Error (1): Call to undefined method FFoodstuffsController::Session() in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FFoodstuffsController.php, line 42]
+2015-05-14 07:00:14 Error: [FatalErrorException] Call to undefined method FFoodstuffsController::Session()
+Request URL: /FFoodstuffs/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 42)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 42, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 42, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 08:18:28 Error: Fatal Error (4): syntax error, unexpected '<' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\View\Ffoodstuffs\add.ctp, line 18]
+2015-05-14 08:18:28 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /FFoodstuffs/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 18, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 18, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 08:18:41 Error: Fatal Error (4): syntax error, unexpected '<' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\View\Ffoodstuffs\add.ctp, line 18]
+2015-05-14 08:18:41 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /FFoodstuffs/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 18, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 18, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 08:19:17 Error: Fatal Error (4): syntax error, unexpected '<' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\View\Ffoodstuffs\add.ctp, line 18]
+2015-05-14 08:19:17 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /FFoodstuffs/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 18, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 18, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 10:55:14 Error: Fatal Error (1): Call to undefined function emplode() in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\DictJasController.php, line 273]
+2015-05-14 10:55:14 Error: [FatalErrorException] Call to undefined function emplode()
+Request URL: /DictJas/removeItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 273)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 273, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'F:\RSDN_PROJECT...', 273, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 11:17:23 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 11:17:39 Error: [MissingActionException] Action FMenusController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'FMenusController',
+  'action' => 'edit',
+)
+Request URL: /fmenus/edit/71
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 11:32:31 Error: Fatal Error (64): Can't use function return value in write context in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php, line 73]
+2015-05-14 11:32:31 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /Fmenus/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Can't use funct...', 'F:\RSDN_PROJECT...', 73)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', 'F:\RSDN_PROJECT...', 73, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', 'F:\RSDN_PROJECT...', 73, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 11:33:19 Error: Fatal Error (4): syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php, line 74]
+2015-05-14 11:33:19 Error: [FatalErrorException] syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM)
+Request URL: /Fmenus/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 74)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 74, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 74, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 12:12:35 Error: Fatal Error (4): syntax error, unexpected ')' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php, line 98]
+2015-05-14 12:12:35 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /Fmenus/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 98)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 98, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 98, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 12:12:35 Error: Fatal Error (4): syntax error, unexpected ')' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php, line 98]
+2015-05-14 12:12:35 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /Fmenus/add
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 98)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 98, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 98, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 12:13:52 Error: [MissingActionException] Action DictJasController::handleItem() could not be found.
+Exception Attributes: array (
+  'controller' => 'DictJasController',
+  'action' => 'handleItem',
+)
+Request URL: /DictJas/handleItem
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-05-14 12:39:35 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php, line 260]
+2015-05-14 12:39:35 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /fmenus/add/78
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 260)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 260, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 260, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 12:47:51 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''139,140,141,142'' at line 1
+Request URL: /fmenus/add/78
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `FFoodst...', Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(668): DboSource->execute('SELECT `FFoodst...', Array, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Datasource\DboSource.php(1106): DboSource->fetchAll('SELECT `FFoodst...', false)
+#4 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Model.php(3022): DboSource->read(Object(FFoodstuff), Array)
+#5 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php(263): Model->find('all', Array)
+#7 [internal function]: FMenusController->add('78')
+#8 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#9 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#11 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-05-14 12:48:30 Error: Fatal Error (4): syntax error, unexpected ';' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Controller\FMenusController.php, line 263]
+2015-05-14 12:48:30 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /fmenus/add/78
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 263)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 263, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 263, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-14 13:13:08 Error: [MissingViewException] View file "FMenus\save_fmenu.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'FMenus\\save_fmenu.ctp',
+)
+Request URL: /f_menus/saveFmenu/78
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#4 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-05-14 13:13:30 Error: [MissingViewException] View file "FMenus\save_fmenu.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'FMenus\\save_fmenu.ctp',
+)
+Request URL: /f_menus/saveFmenu/78
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#4 F:\RSDN_PROJECT\SOURCE\multi_language\source\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-05-15 04:27:05 Error: Fatal Error (1): Class 'Stichoza\GoogleTranslate\TranslateClient' not found in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Vendor\translate\Translate.php, line 9]
+2015-05-15 04:27:05 Error: [FatalErrorException] Class 'Stichoza\GoogleTranslate\TranslateClient' not found
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 04:27:47 Error: Fatal Error (1): Class 'Stichoza\GoogleTranslate\TranslateClient' not found in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Vendor\translate\Translate.php, line 9]
+2015-05-15 04:27:48 Error: [FatalErrorException] Class 'Stichoza\GoogleTranslate\TranslateClient' not found
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 04:28:24 Error: Fatal Error (1): Class 'Stichoza\GoogleTranslate\TranslateClient' not found in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Vendor\translate\Translate.php, line 9]
+2015-05-15 04:28:24 Error: [FatalErrorException] Class 'Stichoza\GoogleTranslate\TranslateClient' not found
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 04:28:30 Error: Fatal Error (1): Class 'Stichoza\GoogleTranslate\TranslateClient' not found in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Vendor\translate\Translate.php, line 9]
+2015-05-15 04:28:30 Error: [FatalErrorException] Class 'Stichoza\GoogleTranslate\TranslateClient' not found
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 04:39:19 Error: Fatal Error (1): Class 'Stichoza\GoogleTranslate\TranslateClient' not found in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Vendor\translate\Translate.php, line 9]
+2015-05-15 04:39:19 Error: [FatalErrorException] Class 'Stichoza\GoogleTranslate\TranslateClient' not found
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 04:41:23 Error: Fatal Error (1): Class 'Stichoza\GoogleTranslate\TranslateClient' not found in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Vendor\translate\Translate.php, line 9]
+2015-05-15 04:41:23 Error: [FatalErrorException] Class 'Stichoza\GoogleTranslate\TranslateClient' not found
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 9, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 04:43:09 Error: Fatal Error (1): Class 'Stichoza\GoogleTranslate\TranslateClient' not found in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\Vendor\translate\Translate.php, line 10]
+2015-05-15 04:43:09 Error: [FatalErrorException] Class 'Stichoza\GoogleTranslate\TranslateClient' not found
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 10, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Stichoza...', 'F:\RSDN_PROJECT...', 10, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 06:14:06 Error: Fatal Error (4): syntax error, unexpected '<' in [F:\RSDN_PROJECT\SOURCE\multi_language\source\app\View\FMenus\add.ctp, line 51]
+2015-05-15 06:14:06 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /FMenus/add/80
+Stack Trace:
+#0 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 51, Array)
+#2 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'F:\RSDN_PROJECT...', 51, Array)
+#3 F:\RSDN_PROJECT\SOURCE\multi_language\source\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:30:08 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/index.php(41): require('/var/www/html/a...')
+#2 {main}
+2015-05-15 23:33:00 Error: Fatal Error (1): Class 'PDO' not found in [/var/www/html/lib/Cake/Model/Datasource/Database/Mysql.php, line 210]
+2015-05-15 23:33:00 Error: [FatalErrorException] Class 'PDO' not found
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:33:41 Error: Fatal Error (1): Class 'PDO' not found in [/var/www/html/lib/Cake/Model/Datasource/Database/Mysql.php, line 210]
+2015-05-15 23:33:41 Error: [FatalErrorException] Class 'PDO' not found
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:33:43 Error: Fatal Error (1): Class 'PDO' not found in [/var/www/html/lib/Cake/Model/Datasource/Database/Mysql.php, line 210]
+2015-05-15 23:33:43 Error: [FatalErrorException] Class 'PDO' not found
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:33:43 Error: Fatal Error (1): Class 'PDO' not found in [/var/www/html/lib/Cake/Model/Datasource/Database/Mysql.php, line 210]
+2015-05-15 23:33:43 Error: [FatalErrorException] Class 'PDO' not found
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:33:58 Error: Fatal Error (1): Class 'PDO' not found in [/var/www/html/lib/Cake/Model/Datasource/Database/Mysql.php, line 210]
+2015-05-15 23:33:58 Error: [FatalErrorException] Class 'PDO' not found
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:33:58 Error: Fatal Error (1): Class 'PDO' not found in [/var/www/html/lib/Cake/Model/Datasource/Database/Mysql.php, line 210]
+2015-05-15 23:33:58 Error: [FatalErrorException] Class 'PDO' not found
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:39:11 Error: Fatal Error (1): Class 'PDO' not found in [/var/www/html/lib/Cake/Model/Datasource/Database/Mysql.php, line 210]
+2015-05-15 23:39:11 Error: [FatalErrorException] Class 'PDO' not found
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PDO' not...', '/var/www/html/l...', 210, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:42:41 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'Selected driver is not enabled',
+  'enabled' => false,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#1 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#2 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#4 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#5 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /var/www/html/app/Controller/FMenusController.php(31): Model->find('all', Array)
+#7 [internal function]: FMenusController->index()
+#8 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#11 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/index.php(41): require('/var/www/html/a...')
+#13 {main}
+2015-05-15 23:43:38 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'Selected driver is not enabled',
+  'enabled' => false,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#1 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#2 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#4 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#5 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /var/www/html/app/Controller/FMenusController.php(31): Model->find('all', Array)
+#7 [internal function]: FMenusController->index()
+#8 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#11 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/index.php(41): require('/var/www/html/a...')
+#13 {main}
+2015-05-15 23:45:09 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'Selected driver is not enabled',
+  'enabled' => false,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#1 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#2 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#4 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#5 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /var/www/html/app/Controller/FMenusController.php(31): Model->find('all', Array)
+#7 [internal function]: FMenusController->index()
+#8 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#11 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/index.php(41): require('/var/www/html/a...')
+#13 {main}
+2015-05-15 23:45:16 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'Selected driver is not enabled',
+  'enabled' => false,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#1 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#2 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#4 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#5 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /var/www/html/app/Controller/FMenusController.php(31): Model->find('all', Array)
+#7 [internal function]: FMenusController->index()
+#8 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#11 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/index.php(41): require('/var/www/html/a...')
+#13 {main}
+2015-05-15 23:45:17 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'Selected driver is not enabled',
+  'enabled' => false,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#1 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#2 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#4 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#5 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /var/www/html/app/Controller/FMenusController.php(31): Model->find('all', Array)
+#7 [internal function]: FMenusController->index()
+#8 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#11 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/index.php(41): require('/var/www/html/a...')
+#13 {main}
+2015-05-15 23:45:19 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'Selected driver is not enabled',
+  'enabled' => false,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#1 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#2 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#4 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#5 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /var/www/html/app/Controller/FMenusController.php(31): Model->find('all', Array)
+#7 [internal function]: FMenusController->index()
+#8 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#11 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/index.php(41): require('/var/www/html/a...')
+#13 {main}
+2015-05-15 23:45:19 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'Selected driver is not enabled',
+  'enabled' => false,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#1 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#2 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#4 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#5 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /var/www/html/app/Controller/FMenusController.php(31): Model->find('all', Array)
+#7 [internal function]: FMenusController->index()
+#8 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#11 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/index.php(41): require('/var/www/html/a...')
+#13 {main}
+2015-05-15 23:58:37 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 68]
+2015-05-15 23:58:37 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:58:43 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 68]
+2015-05-15 23:58:43 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:58:45 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 68]
+2015-05-15 23:58:45 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:58:47 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 68]
+2015-05-15 23:58:47 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-15 23:59:02 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 68]
+2015-05-15 23:59:02 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:01:23 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 68]
+2015-05-16 00:01:23 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:01:27 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 68]
+2015-05-16 00:01:27 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:01:52 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 68]
+2015-05-16 00:01:52 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 68, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:06:10 Error: Fatal Error (4): syntax error, unexpected '[' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 75]
+2015-05-16 00:06:10 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 75)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 75, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 75, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:07:22 Error: Fatal Error (4): syntax error, unexpected '[', expecting ')' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 115]
+2015-05-16 00:07:22 Error: [FatalErrorException] syntax error, unexpected '[', expecting ')'
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 115)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 115, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 115, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:07:56 Error: Fatal Error (4): syntax error, unexpected '[' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 120]
+2015-05-16 00:07:56 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 120)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 120, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 120, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:08:28 Error: Fatal Error (4): syntax error, unexpected '[' in [/var/www/html/app/Vendor/translate/vendor/react/promise/src/functions.php, line 146]
+2015-05-16 00:08:28 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 146)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 146, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 146, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:10:10 Error: Fatal Error (4): syntax error, unexpected '[' in [/var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php, line 54]
+2015-05-16 00:10:10 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 54)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 54, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 54, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:11:51 Error: Fatal Error (4): syntax error, unexpected '[' in [/var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php, line 54]
+2015-05-16 00:11:51 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 54)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 54, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 54, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:14:08 Error: Fatal Error (4): syntax error, unexpected '[' in [/var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php, line 54]
+2015-05-16 00:14:08 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 54)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 54, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 54, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:15:40 Error: Fatal Error (4): syntax error, unexpected '[' in [/var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php, line 74]
+2015-05-16 00:15:40 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 74)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 74, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 74, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:16:09 Error: Fatal Error (4): syntax error, unexpected '[' in [/var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php, line 197]
+2015-05-16 00:16:09 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 197)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 197, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 197, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:16:39 Error: Fatal Error (4): syntax error, unexpected '[' in [/var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php, line 204]
+2015-05-16 00:16:39 Error: [FatalErrorException] syntax error, unexpected '['
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 204)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 204, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 204, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:17:06 Error: Fatal Error (4): syntax error, unexpected T_USE, expecting T_FUNCTION in [/var/www/html/app/Vendor/translate/vendor/guzzlehttp/guzzle/src/Client.php, line 24]
+2015-05-16 00:17:06 Error: [FatalErrorException] syntax error, unexpected T_USE, expecting T_FUNCTION
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 24)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 24, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 24, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 00:20:04 Error: Fatal Error (4): syntax error, unexpected T_USE, expecting T_FUNCTION in [/var/www/html/app/Vendor/translate/vendor/guzzlehttp/guzzle/src/Client.php, line 24]
+2015-05-16 00:20:04 Error: [FatalErrorException] syntax error, unexpected T_USE, expecting T_FUNCTION
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 24)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 24, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 24, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-05-16 02:23:24 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'192.168.168.11\' (13)',
+  'enabled' => true,
+)
+Request URL: /f_menus
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#4 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#5 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#6 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#7 /var/www/html/app/Controller/FMenusController.php(31): Model->find('all', Array)
+#8 [internal function]: FMenusController->index()
+#9 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#12 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-05-16 02:24:40 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (13)',
+  'enabled' => true,
+)
+Request URL: /f_menus
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#4 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#5 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#6 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#7 /var/www/html/app/Controller/FMenusController.php(31): Model->find('all', Array)
+#8 [internal function]: FMenusController->index()
+#9 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#12 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-05-16 02:24:42 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (13)',
+  'enabled' => true,
+)
+Request URL: /f_menus
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#4 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#5 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#6 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#7 /var/www/html/app/Controller/FMenusController.php(31): Model->find('all', Array)
+#8 [internal function]: FMenusController->index()
+#9 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#12 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-05-16 02:24:47 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (13)',
+  'enabled' => true,
+)
+Request URL: /FMenus/add/1
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#4 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#5 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#6 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('first', Array)
+#7 /var/www/html/app/Controller/FMenusController.php(96): Model->find('first', Array)
+#8 [internal function]: FMenusController->add('1')
+#9 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#12 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-05-16 02:25:18 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (13)',
+  'enabled' => true,
+)
+Request URL: /FMenus/add/1
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#4 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('f_menus')
+#5 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#6 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('first', Array)
+#7 /var/www/html/app/Controller/FMenusController.php(96): Model->find('first', Array)
+#8 [internal function]: FMenusController->add('1')
+#9 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FMenusController), Array)
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FMenusController), Object(CakeRequest))
+#12 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-05-16 02:26:11 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (13)',
+  'enabled' => true,
+)
+Request URL: /login
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#4 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('users')
+#5 /var/www/html/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#6 /var/www/html/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#7 /var/www/html/app/Controller/UsersController.php(36): Model->find('all', Array)
+#8 [internal function]: UsersController->login()
+#9 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#12 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-05-19 03:14:54 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+Exception Attributes: array (
+  'class' => 'UndefinedController',
+  'plugin' => NULL,
+)
+Request URL: /undefined
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-05-29 23:53:33 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+Exception Attributes: array (
+  'class' => 'UndefinedController',
+  'plugin' => NULL,
+)
+Request URL: /undefined
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-01 22:07:28 Error: [MissingControllerException] Controller class FMenController could not be found.
+Exception Attributes: array (
+  'class' => 'FMenController',
+  'plugin' => NULL,
+)
+Request URL: /FMen
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-16 03:11:54 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/html/app/Controller/AppController.php, line 134]
+2015-06-16 03:11:54 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /FMenus/add/1
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/a...', 134)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/a...', 134, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/a...', 134, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-16 03:12:03 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/html/app/Controller/AppController.php, line 134]
+2015-06-16 03:12:03 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /FMenus/add/2
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/a...', 134)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/a...', 134, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/a...', 134, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-16 03:13:06 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/html/app/Controller/AppController.php, line 134]
+2015-06-16 03:13:06 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /FMenus/add/2
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/a...', 134)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/a...', 134, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/a...', 134, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-16 03:13:14 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/html/app/Controller/AppController.php, line 134]
+2015-06-16 03:13:14 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /FMenus/add/2
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/a...', 134)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/a...', 134, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/a...', 134, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-16 03:14:05 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/html/app/Controller/AppController.php, line 135]
+2015-06-16 03:14:05 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /FMenus/add/2
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/a...', 135)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/a...', 135, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/a...', 135, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-16 03:14:09 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/html/app/Controller/AppController.php, line 135]
+2015-06-16 03:14:09 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /FMenus/add/2
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/a...', 135)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/a...', 135, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/a...', 135, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-16 03:14:14 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/html/app/Controller/AppController.php, line 135]
+2015-06-16 03:14:14 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /FMenus/add/2
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/a...', 135)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/a...', 135, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/a...', 135, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-17 03:39:08 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('a')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('a')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('a')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', 'a')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', 'a')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-17 03:39:16 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('2')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('2')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('2')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '2')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '2')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-17 03:39:25 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('2')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('2')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('2')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '2')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '2')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-17 03:39:44 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('2')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('2')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('2')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '2')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '2')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-17 03:39:47 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('2')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('2')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('2')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '2')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '2')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-17 03:40:02 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('2')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('2')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('2')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '2')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '2')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-17 03:40:17 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('22')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('22')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('22')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '22')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '22')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-17 03:40:29 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('22')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('22')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('22')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '22')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '22')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-17 03:40:33 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('22')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('22')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('22')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '22')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '22')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-17 03:40:38 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('11')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('11')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('11')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '11')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '11')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-26 19:06:47 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-26 19:06:50 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '')
+#5 /var/www/html/app/Controller/DictJasController.php(68): DictJasController->translate('jpn', 'eng', '')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-26 23:54:49 Error: [MissingControllerException] Controller class FmenusController could not be found.
+Exception Attributes: array (
+  'class' => 'FmenusController',
+  'plugin' => NULL,
+)
+Request URL: /fmenus/delete/5
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-26 23:55:11 Error: [MissingControllerException] Controller class FmenusController could not be found.
+Exception Attributes: array (
+  'class' => 'FmenusController',
+  'plugin' => NULL,
+)
+Request URL: /fmenus/delete/5
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-06-26 23:57:11 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '')
+#5 /var/www/html/app/Controller/DictJasController.php(91): DictJasController->translate('jpn', 'eng', '')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-26 23:57:13 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '')
+#5 /var/www/html/app/Controller/DictJasController.php(91): DictJasController->translate('jpn', 'eng', '')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-26 23:57:16 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '')
+#5 /var/www/html/app/Controller/DictJasController.php(91): DictJasController->translate('jpn', 'eng', '')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-26 23:57:21 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '')
+#5 /var/www/html/app/Controller/DictJasController.php(91): DictJasController->translate('jpn', 'eng', '')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-06-26 23:58:49 Error: [MissingControllerException] Controller class FmenusController could not be found.
+Exception Attributes: array (
+  'class' => 'FmenusController',
+  'plugin' => NULL,
+)
+Request URL: /fmenus/delete/15
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-01 20:27:30 Error: [MissingControllerException] Controller class FmenusController could not be found.
+Exception Attributes: array (
+  'class' => 'FmenusController',
+  'plugin' => NULL,
+)
+Request URL: /fmenus/delete/13
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-01 20:31:05 Error: [MissingControllerException] Controller class FmenusController could not be found.
+Exception Attributes: array (
+  'class' => 'FmenusController',
+  'plugin' => NULL,
+)
+Request URL: /fmenus/delete/12
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-01 20:39:56 Error: [MissingControllerException] Controller class FmenusController could not be found.
+Exception Attributes: array (
+  'class' => 'FmenusController',
+  'plugin' => NULL,
+)
+Request URL: /fmenus/delete/10
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-10 00:33:12 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '')
+#5 /var/www/html/app/Controller/DictJasController.php(86): DictJasController->translate('jpn', 'eng', '')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-07-14 19:39:05 Error: Fatal Error (4): syntax error, unexpected 'else' (T_ELSE) in [/var/www/html/app/View/FMenus/add.ctp, line 162]
+2015-07-14 19:39:05 Error: [FatalErrorException] syntax error, unexpected 'else' (T_ELSE)
+Request URL: /FMenus/add
+Stack Trace:
+#0 /var/www/html/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/a...', 162)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/a...', 162, Array)
+#2 /var/www/html/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/a...', 162, Array)
+#3 /var/www/html/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-14 19:39:49 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '')
+#5 /var/www/html/app/Controller/DictJasController.php(86): DictJasController->translate('jpn', 'eng', '')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-07-14 19:40:03 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulWord
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('11')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('11')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('11')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '11')
+#5 /var/www/html/app/Controller/DictJasController.php(86): DictJasController->translate('jpn', 'eng', '11')
+#6 [internal function]: DictJasController->ajaxMulWord()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-07-14 23:40:48 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('a')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('a')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('a')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', 'a')
+#5 /var/www/html/app/Controller/DictJasController.php(227): DictJasController->translate('jpn', 'eng', 'a')
+#6 [internal function]: DictJasController->ajaxMulItem()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-07-14 23:40:56 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('a')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('a')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('a')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', 'a')
+#5 /var/www/html/app/Controller/DictJasController.php(227): DictJasController->translate('jpn', 'eng', 'a')
+#6 [internal function]: DictJasController->ajaxMulItem()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-07-15 00:38:11 Error: [ErrorException] cURL error 6: See http://curl.haxx.se/libcurl/c/libcurl-errors.html
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('\xE3\x82\xAB\xE3\x83\xAC\xE3\x83\xBC\xE3\x83\xAB\xE3\x83\xBC...')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('\xE3\x82\xAB\xE3\x83\xAC\xE3\x83\xBC\xE3\x83\xAB\xE3\x83\xBC...')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('\xE3\x82\xAB\xE3\x83\xAC\xE3\x83\xBC\xE3\x83\xAB\xE3\x83\xBC...')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', '\xE3\x82\xAB\xE3\x83\xAC\xE3\x83\xBC\xE3\x83\xAB\xE3\x83\xBC...')
+#5 /var/www/html/app/Controller/DictJasController.php(227): DictJasController->translate('jpn', 'eng', '\xE3\x82\xAB\xE3\x83\xAC\xE3\x83\xBC\xE3\x83\xAB\xE3\x83\xBC...')
+#6 [internal function]: DictJasController->ajaxMulItem()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-07-15 00:39:45 Error: [ErrorException] Server error response [url] http://translate.google.com/translate_a/t [status code] 500 [reason phrase] Internal Server Error
+Request URL: /DictJas/ajaxMulItem
+Stack Trace:
+#0 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(238): Stichoza\GoogleTranslate\TranslateClient->getResponse('a')
+#1 /var/www/html/app/Vendor/translate/src/Stichoza/GoogleTranslate/TranslateClient.php(136): Stichoza\GoogleTranslate\TranslateClient->instanceTranslate('a')
+#2 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->__call('translate', Array)
+#3 /var/www/html/app/Vendor/translate/Translate.php(12): Stichoza\GoogleTranslate\TranslateClient->translate('a')
+#4 /var/www/html/app/Controller/DictJasController.php(32): Translate->tranlated('jpn', 'eng', 'a')
+#5 /var/www/html/app/Controller/DictJasController.php(227): DictJasController->translate('jpn', 'eng', 'a')
+#6 [internal function]: DictJasController->ajaxMulItem()
+#7 /var/www/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DictJasController), Array)
+#8 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DictJasController), Object(CakeRequest))
+#10 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-07-21 00:18:52 Error: [MissingActionException] Action FFoodstuffsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'FFoodstuffsController',
+  'action' => 'index',
+)
+Request URL: /FFoodstuffs/
+Stack Trace:
+#0 /var/www/html/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FFoodstuffsController), Object(CakeRequest))
+#2 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-07-21 23:34:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/addRow
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-22 00:32:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/addRow
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-22 00:33:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/addRow
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-22 00:33:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/addRow
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-22 00:33:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/addRow
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-28 18:50:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/addRow
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-28 18:50:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/addRow
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-28 18:51:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/addRow
+Stack Trace:
+#0 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-31 00:24:45 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/var/lib/mysql/mysql.sock\' (111)',
+  'enabled' => true,
+)
+Request URL: /login
+Stack Trace:
+#0 /var/www/html/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /var/www/html/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /var/www/html/lib/Cake/Model/Model.php(3617): ConnectionManager::getDataSource('default')
+#3 /var/www/html/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#4 /var/www/html/lib/Cake/Model/Model.php(3644): Model->setSource('users')
+#5 /var/www/html/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#6 /var/www/html/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#7 /var/www/html/lib/Cake/View/Helper/FormHelper.php(468): FormHelper->_introspectModel('User', 'fields')
+#8 /var/www/html/app/View/Users/login.ctp(3): FormHelper->create('User', Array)
+#9 /var/www/html/lib/Cake/View/View.php(961): include('/var/www/html/a...')
+#10 /var/www/html/lib/Cake/View/View.php(923): View->_evaluate('/var/www/html/a...', Array)
+#11 /var/www/html/lib/Cake/View/View.php(473): View->_render('/var/www/html/a...')
+#12 /var/www/html/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#13 /var/www/html/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#14 /var/www/html/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 /var/www/html/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
